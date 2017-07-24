@@ -12,3 +12,5 @@ C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.Properties.Resources.resources
 C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.csproj.GenerateResource.Cache
 C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.exe
 C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.pdb
+C:\emt\emt2\Emt2\Emt2\bin\Debug\Microsoft.Kinect.dll
+C:\emt\emt2\Emt2\Emt2\bin\Debug\Microsoft.Kinect.xml

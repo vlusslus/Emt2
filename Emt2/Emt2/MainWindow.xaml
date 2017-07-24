@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Emt2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="800">
+        Title="MainWindow" Height="580" Width="840">
     <Grid>
+        <Canvas Name="LayoutRoot" Height="480" Width="640" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Canvas.Background>
+                <ImageBrush />
+            </Canvas.Background>
+        </Canvas>
         
+        <Button x:Name="buttonUp" Content="Angle up" HorizontalAlignment="Right" Margin="0,10,10.333,0" VerticalAlignment="Top" Width="147" Height="47" Click="buttonUp_Click"/>
+        <Button x:Name="buttonDown" Content="Angle down" HorizontalAlignment="Right" Margin="0,62,10.333,0" VerticalAlignment="Top" Width="147" Height="47" Click="buttonDown_Click"/>
     </Grid>
 </Window>
