@@ -1,0 +1,14 @@
+C:\emt\emt2\Emt2\Emt2\bin\Debug\Emt2.exe.config
+C:\emt\emt2\Emt2\Emt2\bin\Debug\Emt2.exe
+C:\emt\emt2\Emt2\Emt2\bin\Debug\Emt2.pdb
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.csprojResolveAssemblyReference.cache
+C:\emt\emt2\Emt2\Emt2\obj\Debug\MainWindow.g.cs
+C:\emt\emt2\Emt2\Emt2\obj\Debug\App.g.cs
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2_MarkupCompile.cache
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2_MarkupCompile.lref
+C:\emt\emt2\Emt2\Emt2\obj\Debug\MainWindow.baml
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.g.resources
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.Properties.Resources.resources
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.csproj.GenerateResource.Cache
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.exe
+C:\emt\emt2\Emt2\Emt2\obj\Debug\Emt2.pdb
